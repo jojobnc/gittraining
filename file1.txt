@@ -1,0 +1,4 @@
+Made some updates to this file online in GitHub. 
+
+Will see if these get propogated down to the local master repo
+$ Joseph 8.18.2020
